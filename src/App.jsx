@@ -2,7 +2,9 @@ import React from 'react'
 
 function App() {
   return (
-    <div className='text-red-500' >App</div>
+    <div className='bg-black w-full h-screen flex justify-center items-center text-white ' >
+        <p>testing</p>
+    </div>
   )
 }
 
